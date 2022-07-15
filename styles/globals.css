@@ -35,7 +35,7 @@ a {
   background:#c4c4c4;
 }
 .container .nav h2{
-  margin: 0;
+  margin: 10px 0;
 }
 .container .videos{
   display: grid;
