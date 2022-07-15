@@ -91,14 +91,14 @@ a {
 }
 @media(max-width: 550px){
   .container{
-    height: 85vh;
+    height: 87.5vh;
   }
   .container .nav{
     height: 7.5vh;
     font-size: 12.5px;
   }
   .container .videos{
-    height: 70vh;
+    height: 72.5vh;
   }
   .container .videos iframe{
     width: 350px;
