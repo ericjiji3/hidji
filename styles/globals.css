@@ -4,6 +4,8 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
 }
 
 a {
@@ -90,25 +92,25 @@ a {
   }
 }
 @media(max-width: 550px){
-  .container{
+  /* .container{
     height: 95vh;
-  }
+  } */
   .container .nav{
-    height: 7.5vh;
+    /* height: 7.5vh; */
     font-size: 15px;
   }
-  .container .videos{
+  /* .container .videos{
     height: 80vh;
-  }
+  } */
   .container .videos iframe{
     width: 350px;
     height: 225px;
   }
-  .container .socials {
+  /* .container .socials {
     position: fixed;
     width: 100%;
     height: 7.5vh;
-}
+} */
 }
 @media(max-width: 400px){
   .container .videos iframe{
