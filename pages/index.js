@@ -16,7 +16,6 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@100;400;500&family=Lalezar&display=swap" rel="stylesheet"></link>
         <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Heebo:wght@100;400;500&family=Lalezar&display=swap" rel="stylesheet"></link>
       </Head>
-      <div className='awge-stars'></div>
       <div className="nav">
         <h2>HIDJI</h2>
       </div>
