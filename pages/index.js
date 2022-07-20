@@ -27,7 +27,7 @@ export default function Home() {
         <iframe width="600" height="400" src="https://www.youtube.com/embed/zgLYhRVoL0g" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <iframe width="600" height="400" src="https://www.youtube.com/embed/PoK2m6Mu53A" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <iframe width="600" height="400" src="https://www.youtube.com/embed/99U_-zcMs8E" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/0NzlbBmkM3E" title="A$AP Rocky - D.M.B. (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/0NzlbBmkM3E" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <iframe src="https://player.vimeo.com/video/730676635?h=b4b3e82696" width="600" height="400" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>
       </div>
       <div className='socials'>
