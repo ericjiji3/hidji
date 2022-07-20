@@ -29,6 +29,7 @@ export default function Home() {
         <iframe width="600" height="400" src="https://www.youtube.com/embed/99U_-zcMs8E" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <iframe width="600" height="400" src="https://www.youtube.com/embed/0NzlbBmkM3E" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <iframe src="https://player.vimeo.com/video/730676635?h=b4b3e82696" width="600" height="400" frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/o0HEz7k9y3k" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         <div className='socials'>
         <a href="https://www.instagram.com/hidjiworld/?hl=en" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} size="1x" /></a>
         <a href="https://twitter.com/hidjifilms?lang=en" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faTwitter} size="1x" /></a>
