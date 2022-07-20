@@ -17,32 +17,18 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Heebo:wght@100;400;500&family=Lalezar&display=swap" rel="stylesheet"></link>
       </Head>
       <div className="nav">
-        <h2>HIDJI</h2>
+        <h2>HIDJI WORLD</h2>
       </div>
       <div className="videos">
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/0NzlbBmkM3E" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/Vx-SmmbzEAQ" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/zgLYhRVoL0g" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/PoK2m6Mu53A" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/xiVqKFDqxyg" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/4LRJoKWgT9U" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/zpL3velgzmQ" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/FUQI-o02JYU" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/pM5XogpX1JA" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/93M1QtYDtpU" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/Kbj2Zss-5GY" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/BNzc6hG3yN4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/BnANUza_uXQ" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/X6SaVOLRcF4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/8Y4eFnLRIzI" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/LtlO4FVzXew" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/meXPbvp3ldg" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/wcJVXg7gg4w" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/_JZqoGz0b6o" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/oCveByMXd_0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/_eLryuBCO-M" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/wQ274umjhFY" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-        <iframe width="600" height="400" src="https://www.youtube.com/embed/tt7gP_IW-1w" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/4LRJoKWgT9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/xiVqKFDqxyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/Vx-SmmbzEAQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/Y59uzXt-SaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/zgLYhRVoL0g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/PoK2m6Mu53A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/99U_-zcMs8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="600" height="400" src="https://www.youtube.com/embed/0NzlbBmkM3E" title="A$AP Rocky - D.M.B. (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/730676635?h=b4b3e82696" width="600" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
       </div>
       <div className='socials'>
         <a href="https://www.instagram.com/hidjiworld/?hl=en" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} size="1x" /></a>

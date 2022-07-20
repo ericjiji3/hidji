@@ -16,13 +16,13 @@ a {
 }
 .container{
   height: 100%;
-  background:black;
   position: relative;
 }
 .container .nav{
   position: fixed;
   text-align: center;
   border-bottom: 1px solid black;
+  background: white;
   font-family: 'Archivo Black', sans-serif;
   font-size: 20px;
   margin: 0;
@@ -32,10 +32,9 @@ a {
   z-index: 5;
   justify-content: center;
   align-items: center;
-  background:#c4c4c4;
 }
 .container .nav h2{
-  margin: 10px 0;
+  margin: 20px 0;
 }
 .container .videos{
   display: grid;
@@ -60,13 +59,14 @@ a {
 .container .videos iframe{
   margin: 20px 0;
   z-index: 1;
-  border: 5px solid#cccccc;
+  /* border: 5px solid#cccccc; */
   border-radius: 5px; 
 
 }
 .container .socials{
   position: fixed;
-  background:#c4c4c4;
+  background:white;
+  border-top: 1px solid black;
   height: 5%;
   display: flex;
   justify-content: center;
@@ -95,13 +95,5 @@ a {
   .container .videos iframe{
     width: 300px;
     height: 200px;
-  }
-}
-@keyframes animStar{
-  0%{
-    transform: translateY(0px) translate3d(0, 0, 0) translateZ(0);
-  }
-  100%{
-    transform: translateY(-2000px) translate3d(0, 0, 0) translateZ(0);
   }
 }
