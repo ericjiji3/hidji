@@ -63,15 +63,10 @@ a {
   border-radius: 5px; 
 
 }
-.container .socials{
-  position: fixed;
+.container .videos .socials{
   background:white;
-  border-top: 1px solid black;
-  height: 5%;
   display: flex;
   justify-content: center;
-  bottom: 0;
-  width: 100%;
   z-index: 1;
 }
 .container .socials a{
